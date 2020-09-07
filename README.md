@@ -1,16 +1,9 @@
-# social_media_app_starter
+![](https://github.com/rifqieh/social-media-app-completed/blob/master/social%20media.png)
 
-A new Flutter project.
+# Social Media App
+## [Youtube: Social Media App - Speed Code](https://www.youtube.com/watch?v=mHGTezO4o6w&feature=youtu.be)
+Packages
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [carousel slider](https://pub.dev/packages/carousel_slider)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design Credit: [Fire UI](https://www.uplabs.com/posts/free-facebook-app-ui)
